@@ -1,0 +1,8 @@
+result=str(10)
+print(result)
+print('we can also use single quotes for strings')
+print('what\'s up')
+print("""end
+line"""+"!"*3)
+sayi=10
+print(sayi**3)
